@@ -11,7 +11,7 @@
     <q-card-section class="q-mx-sm">
       <div class="row q-col-gutter-lg">
         <div class="col-lg-3 col-sm-12 col-xs-12 col-md-3" v-for="data in getData">
-          <q-card style="background-color: #292845" class="text-white">
+          <q-card style="background-color: #296845" class="text-white">
             <q-img
               :src="data.img"
             />
@@ -25,7 +25,7 @@
               </div>
             </q-card-section>
             <q-card-actions align="around" class="text-subtitle1">
-              <q-btn color="" icon="remove_red_eye" class="bg-transparent text-capitalize" flat label="200 Views"/>
+              <q-btn color="" icon="remove_red_eye" class="bg-transparent text-capitalize" flat label="220 Views"/>
               <div class="float-right">
                 <q-btn color="" icon="chat_bubble" class="bg-transparent" flat label="56"/>
               </div>

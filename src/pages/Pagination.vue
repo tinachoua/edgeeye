@@ -1,13 +1,13 @@
 <template>
   <q-page class="q-pa-sm">
-    <div class="text-h6 q-ma-md">Pagination and Filters</div>
+    <div class="text-h6 q-ma-md">Containers</div>
     <q-separator/>
 
     <CardPagination></CardPagination>
 
-    <list-pagination></list-pagination>
+    <!-- <list-pagination></list-pagination>
 
-    <basic-filter></basic-filter>
+    <basic-filter></basic-filter> -->
 
   </q-page>
 </template>

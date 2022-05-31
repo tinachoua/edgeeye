@@ -1,6 +1,6 @@
 <template>
-  <q-page class="q-pa-sm">
-    <div id="myMap" style="height: 85vh;"></div>
+  <q-page class="q-pa-sm ">
+    <div id="myMap" style="height: 45vh;"></div>
   </q-page>
 </template>
 

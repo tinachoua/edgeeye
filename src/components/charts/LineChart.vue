@@ -1,9 +1,9 @@
 <template>
   <div>
     <q-card>
-      <q-card-section class="text-h6">
+      <!-- <q-card-section class="text-h6">
         Line Chart
-      </q-card-section>
+      </q-card-section> -->
       <q-card-section>
         <div ref="linechart" id="lineChart" style="height: 300px;"></div>
       </q-card-section>
